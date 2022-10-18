@@ -13,5 +13,5 @@
   - "do a wikepedia search for ... "
   - "search the internet for ... "
   - "play ..."
-  - "joke ... "
+  - "... joke ... "
     
